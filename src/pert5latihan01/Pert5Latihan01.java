@@ -7,7 +7,7 @@ public class Pert5Latihan01 {
         hitungv nvolbalok = new hitungv();
         
         //Set nilai properti
-        nvolbalok.Panjang = 10;
+        nvolbalok.Panjang = 20;
         nvolbalok.Lebar = 8;
         nvolbalok.Tinggi = 5;
         
